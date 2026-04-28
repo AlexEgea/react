@@ -4,22 +4,6 @@ Aplicación web desarrollada con **React** que permite escribir texto en **Markd
 
 Este proyecto forma parte de la certificación de **Front End Development Libraries** de freeCodeCamp.
 
----
-
-## 🚀 Demo
-
-🔗 **Live App:** *(añade aquí tu enlace de Netlify)*
-Ejemplo:
-`https://markdown-previewer-alexegea.netlify.app`
-
----
-
-## 📸 Preview
-
-![preview](https://cdn.freecodecamp.org/testable-projects-fcc/images/markdown-previewer.png)
-
----
-
 ## 🎯 Características
 
 * Editor de Markdown en tiempo real
