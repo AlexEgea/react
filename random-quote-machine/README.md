@@ -5,18 +5,6 @@ Proyecto realizado como parte de la certificación de **Front-End Development Li
 
 ---
 
-## 🚀 Demo
-
-👉 *(Añade aquí tu enlace cuando lo subas, por ejemplo con Vercel o Netlify)*
-
----
-
-## 📸 Preview
-
-![preview](https://via.placeholder.com/800x400?text=Random+Quote+Machine)
-
----
-
 ## ✨ Características
 
 * 🔁 Generación de frases aleatorias
